@@ -4,6 +4,6 @@ var playlist = {
   Biggie: "Ten Crack Commandments"
 };
 
-function updatePlaylist(obj, name, song){
-  obj.name = 'song';
+function updatePlaylist(playlist, artistName, songTitle){
+  playlist.artistName = 'songTitle';
 }
